@@ -1,0 +1,6 @@
+50 data 0.30 average process time in seconds
+100 data 0.59 average process time in seconds
+50 data 0.30 average process time in seconds
+100 data 0.64 average process time in seconds
+50 data 0.33 average process time in seconds
+100 data 0.61 average process time in seconds
